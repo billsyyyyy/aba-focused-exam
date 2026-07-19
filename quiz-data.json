@@ -1,0 +1,3569 @@
+[
+  {
+    "id": "a1",
+    "code": "A.1",
+    "title": "Goals of Behavior Analysis as a Science",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "Which level of scientific understanding is suggested by, “Users that complete at least 85% of the modules are more likely to pass the exam”?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "prediction"
+          },
+          {
+            "letter": "B",
+            "text": "description"
+          },
+          {
+            "letter": "C",
+            "text": "control"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "This is prediction because completing the modules is associated with passing the exam. The statement does not prove that module completion directly caused the outcome."
+      },
+      {
+        "number": 2,
+        "prompt": "Which level of scientific understanding is suggested by, “Changing criterion data show that each time the teacher raises the requirement to earn points, good behavior increases”?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "prediction"
+          },
+          {
+            "letter": "B",
+            "text": "control"
+          },
+          {
+            "letter": "C",
+            "text": "description"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "This is control because the teacher changes the criterion and behavior changes systematically with it. That repeated effect demonstrates a functional relation."
+      },
+      {
+        "number": 3,
+        "prompt": "When an experimental manipulation of one event results in another event, the level of scientific understanding is referred to as",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "description."
+          },
+          {
+            "letter": "B",
+            "text": "control."
+          },
+          {
+            "letter": "C",
+            "text": "prediction."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Control is demonstrated when manipulating one event reliably produces a change in another event."
+      },
+      {
+        "number": 4,
+        "prompt": "Which statement demonstrates the level of scientific understanding known as control?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Users who complete at least 85% of the modules are more likely to pass the exam."
+          },
+          {
+            "letter": "B",
+            "text": "Changing criterion data show that each time the teacher raises the requirement to earn points, good behavior increases."
+          },
+          {
+            "letter": "C",
+            "text": "The average rate of problem completion during baseline was three minutes."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The changing-criterion statement shows control because the manipulated requirement produces a corresponding change in behavior."
+      },
+      {
+        "number": 5,
+        "prompt": "The level of scientific understanding that is obtained when two events vary consistently such that one event is likely to co-occur with, but not necessarily cause, the other event is",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "control."
+          },
+          {
+            "letter": "B",
+            "text": "description."
+          },
+          {
+            "letter": "C",
+            "text": "prediction."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Prediction means two events are correlated. One event can help forecast the other, but causation has not been demonstrated."
+      },
+      {
+        "number": 6,
+        "prompt": "Which level of scientific understanding is suggested by, “The standardized test scores ranged from 75-125”?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "control"
+          },
+          {
+            "letter": "B",
+            "text": "description"
+          },
+          {
+            "letter": "C",
+            "text": "prediction"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "This is description because the statement reports measured information without identifying a relationship or showing causation."
+      },
+      {
+        "number": 7,
+        "prompt": "Description is the level of understanding",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "obtained through systematic observations that can be quantified and classified."
+          },
+          {
+            "letter": "B",
+            "text": "that follows from observations that a particular condition is correlated with a particular outcome."
+          },
+          {
+            "letter": "C",
+            "text": "that exists when manipulation of one condition repeatedly brings about the occurrence of another condition."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Description involves observing, measuring, classifying, and reporting events in a systematic way."
+      },
+      {
+        "number": 8,
+        "prompt": "Which level of scientific understanding is suggested by, “Children who receive verbal behavior training are more likely to use verbal speech”?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "description"
+          },
+          {
+            "letter": "B",
+            "text": "control"
+          },
+          {
+            "letter": "C",
+            "text": "prediction"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The phrase “more likely” describes an association. The statement does not show that the training experimentally caused verbal speech."
+      },
+      {
+        "number": 9,
+        "prompt": "Which level of scientific understanding is suggested by, “The average duration of responses was three minutes”?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "control"
+          },
+          {
+            "letter": "B",
+            "text": "description"
+          },
+          {
+            "letter": "C",
+            "text": "prediction"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "This is description because it reports a measured characteristic of behavior."
+      },
+      {
+        "number": 10,
+        "prompt": "Which level of scientific understanding is suggested by, “Alternating treatment data show that students are more likely to comply when a token system is in effect than when it is not in effect”?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "control"
+          },
+          {
+            "letter": "B",
+            "text": "description"
+          },
+          {
+            "letter": "C",
+            "text": "prediction"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "An alternating-treatments design experimentally compares conditions. Compliance changes with the token system, demonstrating control."
+      },
+      {
+        "number": 11,
+        "prompt": "Which level of scientific understanding is suggested by, “Withdrawal design data indicate that when children get training, scores go up--when they don't, scores go down”?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "prediction"
+          },
+          {
+            "letter": "B",
+            "text": "description"
+          },
+          {
+            "letter": "C",
+            "text": "control"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The training is introduced and withdrawn, and scores change with those conditions. This repeated pattern demonstrates a functional relation."
+      },
+      {
+        "number": 12,
+        "prompt": "Which statement demonstrates the level of scientific understanding known as prediction?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Users who complete at least 85% of the modules are more likely to pass the exam."
+          },
+          {
+            "letter": "B",
+            "text": "Work errors reliably go down when monitoring is in place and go up each time it is withdrawn."
+          },
+          {
+            "letter": "C",
+            "text": "Standardized test scores for fourth graders in the district ranged from 75-125."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The first statement identifies a correlation between module completion and exam performance without proving causation."
+      },
+      {
+        "number": 13,
+        "prompt": "In an effort to reduce the cost of trash collection after outdoor athletic events, a campus facilities manager decides to promote recycling. The manager wants to provide the most efficient number of recycling receptacles and asks a student intern to provide descriptive data that would be helpful in making this determination. The intern reviews pilot programs that have been implemented and reports that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the weight of trash at field hockey games reliably went down when fans were reminded by volunteers to recycle and up when reminders were not in effect."
+          },
+          {
+            "letter": "B",
+            "text": "last season, 45% of trash collected at soccer games, by weight, was actually recyclable material."
+          },
+          {
+            "letter": "C",
+            "text": "when special receptacles were installed next to trash bins at all home football games, trash collection fees dropped by 11% for the season."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The 45% figure is descriptive because it reports a directly measured amount of recyclable material."
+      },
+      {
+        "number": 14,
+        "prompt": "In an effort to reduce the cost of trash collection after outdoor athletic events, a campus facilities manager decides to promote recycling. The manager wants to provide the most efficient number of recycling receptacles and asks a student intern to provide predictive data that would be helpful in making this determination. The intern reviews pilot programs that have been implemented and reports that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the weight of trash at field hockey games reliably went down when fans were reminded by volunteers to recycle and up when reminders were not in effect."
+          },
+          {
+            "letter": "B",
+            "text": "last season, 45% of trash collected at soccer games, by weight, was actually recyclable material."
+          },
+          {
+            "letter": "C",
+            "text": "when special receptacles were installed next to trash bins at all home football games, trash collection fees dropped by 11% for the season."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The receptacles and lower collection fees occurred together, showing a relationship. The statement does not demonstrate repeated experimental control."
+      },
+      {
+        "number": 15,
+        "prompt": "Which statement demonstrates the level of scientific understanding known as description?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Standardized test scores for fourth graders in the district ranged from 75-125."
+          },
+          {
+            "letter": "B",
+            "text": "Work errors reliably go down when monitoring is in place and go up each time it is withdrawn."
+          },
+          {
+            "letter": "C",
+            "text": "Children who receive verbal behavior training are more likely to use speech."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The score range reports observed and quantified information without describing a correlation or a functional relation."
+      },
+      {
+        "number": 16,
+        "prompt": "Prediction is the level of understanding",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that follows from observations that a particular condition is correlated with a particular outcome."
+          },
+          {
+            "letter": "B",
+            "text": "obtained through systematic observations that can be quantified and classified."
+          },
+          {
+            "letter": "C",
+            "text": "when an experimental manipulation of one condition repeatedly brings about the occurrence of another condition"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Prediction occurs when two events are reliably related, allowing one to help forecast the other."
+      },
+      {
+        "number": 17,
+        "prompt": "The term used to describe the level of scientific understanding obtained through systematic observations that can be quantified and classified is",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "description."
+          },
+          {
+            "letter": "B",
+            "text": "prediction."
+          },
+          {
+            "letter": "C",
+            "text": "control."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Systematic observation, measurement, and classification define description."
+      },
+      {
+        "number": 18,
+        "prompt": "Control is the level of understanding",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "obtained through systematic observations that can be quantified and classified."
+          },
+          {
+            "letter": "B",
+            "text": "that exists when manipulation of one condition repeatedly brings about the occurrence of another condition."
+          },
+          {
+            "letter": "C",
+            "text": "that follows from observations that a particular condition is correlated with a particular outcome."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Control requires experimental evidence that changing one condition repeatedly changes another condition."
+      },
+      {
+        "number": 19,
+        "prompt": "(Select the one or more correct options.) The levels of scientific understanding include",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "empiricism."
+          },
+          {
+            "letter": "B",
+            "text": "determinism."
+          },
+          {
+            "letter": "C",
+            "text": "prediction."
+          },
+          {
+            "letter": "D",
+            "text": "control."
+          },
+          {
+            "letter": "E",
+            "text": "description."
+          }
+        ],
+        "correct": [
+          "C",
+          "D",
+          "E"
+        ],
+        "multiple": true,
+        "explanation": "The three levels of scientific understanding are description, prediction, and control. Empiricism and determinism are philosophical assumptions of science."
+      },
+      {
+        "number": 20,
+        "prompt": "In an effort to reduce the cost of trash collection after outdoor athletic events, a campus facilities manager decides to promote recycling. The manager wants to provide the most efficient number of recycling receptacles and asks a student intern to provide data that demonstrate control. The intern reviews pilot programs that have been implemented and reports that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the weight of trash at field hockey games reliably went down when fans were reminded by volunteers to recycle and up when reminders were not in effect."
+          },
+          {
+            "letter": "B",
+            "text": "last season, 45% of trash collected at soccer games, by weight, was actually recyclable material."
+          },
+          {
+            "letter": "C",
+            "text": "when special receptacles were installed next to trash bins at all home football games, trash collection fees dropped by 11% for the season."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The reminder condition was introduced and removed, and trash weight changed repeatedly with it. This demonstrates experimental control."
+      }
+    ]
+  },
+  {
+    "id": "a2-part-1",
+    "code": "A.2 Part 1",
+    "title": "Philosophical Assumptions",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "Despite reading two elegant experiments that describe behavioral momentum in terms of fundamental behavioral principles, a researcher believes there are not enough data to support the existence of this phenomenon. This researcher's position most closely represents the underlying assumption of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "parsimony."
+          },
+          {
+            "letter": "B",
+            "text": "empiricism."
+          },
+          {
+            "letter": "C",
+            "text": "determinism."
+          },
+          {
+            "letter": "D",
+            "text": "philosophic doubt."
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Philosophic doubt means scientific knowledge remains tentative. Researchers stay skeptical until enough convincing evidence is available."
+      },
+      {
+        "number": 2,
+        "prompt": "An intervention is supported by multiple peer-reviewed studies published in non-behavioral journals. You don't think it will be effective because the outcomes are explained in terms that are inconsistent with operant principles. You adopt the attitude of philosophic doubt and",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "accept the data because it reflects a new approach."
+          },
+          {
+            "letter": "B",
+            "text": "reject this research on the grounds that it contradicts Skinner's writings."
+          },
+          {
+            "letter": "C",
+            "text": "reject this research because operant conditioning is a well-established fact."
+          },
+          {
+            "letter": "D",
+            "text": "accept the data supporting the intervention unless contrary findings emerge."
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Philosophic doubt requires accepting the best available evidence provisionally while remaining willing to revise the conclusion."
+      },
+      {
+        "number": 3,
+        "prompt": "Experimentation",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is an evaluation of how one event is influenced by other events."
+          },
+          {
+            "letter": "B",
+            "text": "ideally requires that all variables be controlled except confounding variables."
+          },
+          {
+            "letter": "C",
+            "text": "requires manipulation of the dependent variable."
+          },
+          {
+            "letter": "D",
+            "text": "looks for correlations between one event and other event(s)."
+          },
+          {
+            "letter": "E",
+            "text": "ideally requires that all variables be controlled except the dependent variable."
+          },
+          {
+            "letter": "F",
+            "text": "requires manipulation of the independent variable."
+          }
+        ],
+        "correct": [
+          "A",
+          "E",
+          "F"
+        ],
+        "multiple": true,
+        "explanation": "Corrected answer set: experimentation manipulates the independent variable, measures the dependent variable, and controls other relevant variables."
+      },
+      {
+        "number": 4,
+        "prompt": "Pragmatism is the philosophical belief that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "what is knowable can only be known through direct experience or observation."
+          },
+          {
+            "letter": "B",
+            "text": "the value of an explanation is determined by the extent to which it leads to effective action with respect to a particular goal."
+          },
+          {
+            "letter": "C",
+            "text": "behavioral repertoires are shaped by their effect on the environment."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Pragmatism judges an explanation by whether it works and helps achieve a particular goal."
+      },
+      {
+        "number": 5,
+        "prompt": "Given two explanations for the same phenomenon, parsimony favors the explanation that is",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "supported by most scientists."
+          },
+          {
+            "letter": "B",
+            "text": "based on the fewest assumptions."
+          },
+          {
+            "letter": "C",
+            "text": "most complex."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Parsimony favors the simplest adequate explanation and avoids unnecessary assumptions."
+      },
+      {
+        "number": 6,
+        "prompt": "A parsimonious explanation is most likely to be",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a theoretical description of a novel, complex perspective."
+          },
+          {
+            "letter": "B",
+            "text": "an elaborate version of an existing conceptual model."
+          },
+          {
+            "letter": "C",
+            "text": "built on an existing foundation of knowledge or laws."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "A parsimonious explanation begins with established knowledge or laws before adding new assumptions."
+      },
+      {
+        "number": 7,
+        "prompt": "Human behavior is a product of the contingencies of survival that account for respondent behavior (phylogeny) and the contingencies of reinforcement that strengthen operant behavior (ontogeny). This statement reflects the underlying philosophical assumption known as",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "determinism."
+          },
+          {
+            "letter": "B",
+            "text": "pragmatism."
+          },
+          {
+            "letter": "C",
+            "text": "selectionism."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Selectionism explains behavior through selection across evolutionary history and an individual's learning history."
+      },
+      {
+        "number": 8,
+        "prompt": "Behavior that is the result of an individual's genetic background is",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "phylogenic."
+          },
+          {
+            "letter": "B",
+            "text": "ontogenic."
+          },
+          {
+            "letter": "C",
+            "text": "operant."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Phylogenic behavior comes from genetic inheritance and the evolutionary history of the species."
+      },
+      {
+        "number": 9,
+        "prompt": "Behavior analysis is predicated on assumptions and attitudes of science, including",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "indeterminism (unpredictability of behavior)."
+          },
+          {
+            "letter": "B",
+            "text": "ontogeny."
+          },
+          {
+            "letter": "C",
+            "text": "philosophic doubt."
+          },
+          {
+            "letter": "D",
+            "text": "ethics."
+          },
+          {
+            "letter": "E",
+            "text": "empiricism."
+          },
+          {
+            "letter": "F",
+            "text": "experimentation (scientific manipulation). G. determinism (lawfulness of behavior). H. replication. I. parsimony."
+          }
+        ],
+        "correct": [
+          "C",
+          "E",
+          "F"
+        ],
+        "multiple": true,
+        "explanation": "The listed assumptions and attitudes of science are philosophic doubt, empiricism, experimentation, determinism, replication, and parsimony."
+      },
+      {
+        "number": 10,
+        "prompt": "Empiricism does NOT include which of the following?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "objective observation of behavior"
+          },
+          {
+            "letter": "B",
+            "text": "prioritization of target behaviors"
+          },
+          {
+            "letter": "C",
+            "text": "behavior being quantified"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Empiricism uses objective observation and measurement. Prioritizing targets belongs to assessment and treatment planning."
+      },
+      {
+        "number": 11,
+        "prompt": "Behavior that is selected by interactions with the environment during an individual's lifetime is",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "phylogenic."
+          },
+          {
+            "letter": "B",
+            "text": "respondent."
+          },
+          {
+            "letter": "C",
+            "text": "ontogenic."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Ontogenic behavior develops through an individual's interactions and learning experiences during life."
+      },
+      {
+        "number": 12,
+        "prompt": "From a deterministic perspective, variability in behavioral data is evidence of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "autonomous control."
+          },
+          {
+            "letter": "B",
+            "text": "inherent freedom of choice."
+          },
+          {
+            "letter": "C",
+            "text": "uncontrolled influences."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Determinism assumes lawful causes. Variability suggests that relevant influences have not yet been identified or controlled."
+      },
+      {
+        "number": 13,
+        "prompt": "Replication is sometimes referred to as an \"attitude of science.\" In practice, it means that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "scientific knowledge is built on detailed description of the measurement and manipulation of well-defined variables."
+          },
+          {
+            "letter": "B",
+            "text": "confidence in experimental findings grows when each duplication of procedures produces similar results."
+          },
+          {
+            "letter": "C",
+            "text": "knowledge is a product of observed experience that is thoroughly, objectively, and precisely described."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Repeated procedures that produce similar results increase confidence that the finding is reliable."
+      },
+      {
+        "number": 14,
+        "prompt": "Determinism is the assumption that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "many events have causes."
+          },
+          {
+            "letter": "B",
+            "text": "behavior is self-determined."
+          },
+          {
+            "letter": "C",
+            "text": "all events have causes."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Determinism holds that events, including behavior, occur lawfully because of identifiable causes."
+      },
+      {
+        "number": 15,
+        "prompt": "Experimentation",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is the assumption that the universe is lawful and that things occur for a reason."
+          },
+          {
+            "letter": "B",
+            "text": "involves arranging events to evaluate their influence on supernatural phenomena."
+          },
+          {
+            "letter": "C",
+            "text": "is a defining feature of behavior analysis."
+          },
+          {
+            "letter": "D",
+            "text": "is a deterministic philosophy."
+          },
+          {
+            "letter": "E",
+            "text": "involves arranging events to evaluate their influence on other events."
+          },
+          {
+            "letter": "F",
+            "text": "requires the use of a control group. G. involves changing numerous events at once, as opposed to one variable at a time."
+          }
+        ],
+        "correct": [
+          "C",
+          "E"
+        ],
+        "multiple": true,
+        "explanation": "Corrected answer set: experimentation is a defining feature of behavior analysis and evaluates how arranged natural events influence other events."
+      },
+      {
+        "number": 16,
+        "prompt": "Which is true?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Ontogenic behavior is usually emitted."
+          },
+          {
+            "letter": "B",
+            "text": "Respondent behavior is shaped by a history of reinforcement."
+          },
+          {
+            "letter": "C",
+            "text": "Phylogenic behavior is elicited."
+          },
+          {
+            "letter": "D",
+            "text": "Operant behavior primarily is attributable to genetics."
+          },
+          {
+            "letter": "E",
+            "text": "Operant behavior is largely ontogenic."
+          },
+          {
+            "letter": "F",
+            "text": "Respondent behavior is primarily phylogenic."
+          }
+        ],
+        "correct": [
+          "A",
+          "C",
+          "E",
+          "F"
+        ],
+        "multiple": true,
+        "explanation": "Operant behavior is generally emitted and largely ontogenic. Respondent behavior is generally elicited and primarily phylogenic."
+      },
+      {
+        "number": 17,
+        "prompt": "Selectionism is reflected in the statement that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "events do not occur at random but rather as an orderly process."
+          },
+          {
+            "letter": "B",
+            "text": "the relative value of an explanation is determined by its practical impact with respect to a particular goal."
+          },
+          {
+            "letter": "C",
+            "text": "whether a response, once made, is repeated in the future depends on the consequences that follow it."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Selectionism states that consequences select behavior. Reinforced responses become more likely to occur again."
+      },
+      {
+        "number": 18,
+        "prompt": "Scientists approach knowledge from a position of philosophic doubt, which is the idea that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "knowledge is tentative and may need to be revised if there is compelling evidence to do so."
+          },
+          {
+            "letter": "B",
+            "text": "by default, the best explanation of some phenomenon is the simplest explanation."
+          },
+          {
+            "letter": "C",
+            "text": "the \"truth\" value of a proposition depends on its usefulness with respect to progress toward a goal."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Philosophic doubt treats knowledge as provisional and open to revision when stronger evidence becomes available."
+      },
+      {
+        "number": 19,
+        "prompt": "Select the most parsimonious explanation. A 5-year-old tantrums in the candy aisle due to",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "an emotional disturbance."
+          },
+          {
+            "letter": "B",
+            "text": "a history of reinforcement in the form of receiving candy."
+          },
+          {
+            "letter": "C",
+            "text": "dysfunctional cognitions resulting from poor parenting skills."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "A reinforcement history is observable, testable, and based on established behavioral principles."
+      },
+      {
+        "number": 20,
+        "prompt": "The idea that the value of a philosophic or scientific proposition depends on whether adopting it leads to success at achieving a particular goal is known as",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "parsimony."
+          },
+          {
+            "letter": "B",
+            "text": "philosophic doubt."
+          },
+          {
+            "letter": "C",
+            "text": "pragmatism."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Pragmatism evaluates an idea by whether applying it produces useful results toward a specific goal."
+      }
+    ]
+  },
+  {
+    "id": "a2-part-2",
+    "code": "A.2 Part 2",
+    "title": "Behaviorism and Philosophical Foundations",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "With respect to explaining a child's tantrums, which statement is most deterministic, from a behavioral perspective?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "\"The behavior is consistent with the DSM diagnosis of intermittent explosive disorder.\""
+          },
+          {
+            "letter": "B",
+            "text": "\"We think a functional analysis will identify the conditions that maintain tantrums.\""
+          },
+          {
+            "letter": "C",
+            "text": "\"Our data suggest that tantrums are associated with depressive moods.\""
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Determinism assumes behavior has identifiable causes. A functional analysis tests environmental conditions that may maintain the tantrums."
+      },
+      {
+        "number": 2,
+        "prompt": "Phylogenic behavior is (Select the one or more correct options.)",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "respondent behavior."
+          },
+          {
+            "letter": "B",
+            "text": "emitted by an organism."
+          },
+          {
+            "letter": "C",
+            "text": "elicited."
+          },
+          {
+            "letter": "D",
+            "text": "operant behavior."
+          },
+          {
+            "letter": "E",
+            "text": "inherited genetically."
+          },
+          {
+            "letter": "F",
+            "text": "selected by an organism's interactions with its environment."
+          }
+        ],
+        "correct": [
+          "A",
+          "C",
+          "E"
+        ],
+        "multiple": true,
+        "explanation": "Phylogenic behavior is inherited through the evolutionary history of the species. It is typically respondent behavior elicited by a stimulus."
+      },
+      {
+        "number": 3,
+        "prompt": "An intervention is supported by many peer-reviewed experiments published in non-behavioral journals. The outcomes are explained in terms that are inconsistent with operant principles, and you were skeptical of the early research. As additional studies were published, your increasing confidence in the intervention is a result of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "philosophic doubt."
+          },
+          {
+            "letter": "B",
+            "text": "determinism."
+          },
+          {
+            "letter": "C",
+            "text": "replication."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Repeated studies that produce similar findings increase confidence that the effect is reliable. This is replication."
+      },
+      {
+        "number": 4,
+        "prompt": "Which of the following is/are likely to rely on empirical support?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a statement, issued by a national medical association, of a recently approved treatment"
+          },
+          {
+            "letter": "B",
+            "text": "an experiment presented at a high-school science fair"
+          },
+          {
+            "letter": "C",
+            "text": "the editorial in a peer-reviewed veterinary journal"
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Each source may rely on observation, measurement, or experimental evidence. Empiricism concerns evidence, not the prestige or setting of the source."
+      },
+      {
+        "number": 5,
+        "prompt": "A student often spoke out of turn to get the teacher's attention. A BCBA differentially reinforced hand raising in a mock classroom setting. After consistently raising a hand and engaging in low rates of callouts in that setting, the student returned to the regular classroom. Initially, the student continued to raise a hand in class, but by the second week, callouts returned to high levels, and hand raising decreased. During a follow-up observation, the BCBA noticed the teacher often ignored the student's hand raises and consistently spoke to the student following callouts. The student's increase in callouts and decrease in hand raising is best explained by",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "empiricism."
+          },
+          {
+            "letter": "B",
+            "text": "selectionism."
+          },
+          {
+            "letter": "C",
+            "text": "pragmatism."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Consequences selected the behavior. Attention followed callouts, while hand raising was ignored, so callouts increased and hand raising decreased."
+      },
+      {
+        "number": 6,
+        "prompt": "A child kicks the doctor after being tapped in the knee with a patellar hammer. This response is primarily",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "emitted."
+          },
+          {
+            "letter": "B",
+            "text": "ontogenic."
+          },
+          {
+            "letter": "C",
+            "text": "phylogenic."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The patellar reflex is biologically inherited and elicited by the tap. It is phylogenic rather than learned through the individual's history."
+      },
+      {
+        "number": 7,
+        "prompt": "With respect to Cory, a nonvocal adult who engages in aggression most mornings at breakfast, which statement is most deterministic, from a behavioral perspective?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "\"Cory suddenly gets the idea of hitting somebody, then does it.\""
+          },
+          {
+            "letter": "B",
+            "text": "\"Cory is not a morning person, and therefore is easily provoked at breakfast.\""
+          },
+          {
+            "letter": "C",
+            "text": "\"Certain foods may upset Cory's stomach, leading to hitting nearby people.\""
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The food-related explanation proposes a testable physical or environmental variable. The other options rely on vague mentalistic labels."
+      },
+      {
+        "number": 8,
+        "prompt": "An intervention is supported by many peer-reviewed experiments published in non-behavioral journals. You initially were skeptical of the intervention because the outcomes are explained in terms that are inconsistent with operant principles. After you successfully implement the experimental procedures described in the literature within your own setting, however, your confidence in the intervention grows. In this case, your revised opinion is a result of the attitude(s) of science known as",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "replication."
+          },
+          {
+            "letter": "B",
+            "text": "experimentation."
+          },
+          {
+            "letter": "C",
+            "text": "pragmatism."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "You replicated the procedures, experimentally tested them in your setting, and accepted them because they worked. All three attitudes apply."
+      },
+      {
+        "number": 9,
+        "prompt": "Ontogenic behavior is (Select the one or more correct options.)",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "operant behavior."
+          },
+          {
+            "letter": "B",
+            "text": "selected by an organism's interactions with its environment."
+          },
+          {
+            "letter": "C",
+            "text": "inherited genetically."
+          },
+          {
+            "letter": "D",
+            "text": "emitted by an organism."
+          },
+          {
+            "letter": "E",
+            "text": "respondent behavior."
+          },
+          {
+            "letter": "F",
+            "text": "elicited."
+          }
+        ],
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ],
+        "multiple": true,
+        "explanation": "Ontogenic behavior develops during an individual's lifetime. Operant behavior is emitted and selected by its consequences through interaction with the environment."
+      },
+      {
+        "number": 10,
+        "prompt": "Which is a parsimonious statement?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "A high error rate with subtraction problems is a function of the student's learning style."
+          },
+          {
+            "letter": "B",
+            "text": "Food refusal occurs because of scar tissue in the esophagus that makes swallowing painful."
+          },
+          {
+            "letter": "C",
+            "text": "A problem behavior is maintained by teacher attention and a personality disorder."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Parsimony favors the simplest adequate explanation based on known and testable variables. Pain caused by scar tissue is a direct explanation."
+      },
+      {
+        "number": 11,
+        "prompt": "Which philosophical assumption is best reflected in the following statement: My clinical practice is built on the philosophical underpinnings of behavior analysis not because they are \"right,\" but because collectively, they lead to measurably better outcomes for the people I serve.",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "parsimony"
+          },
+          {
+            "letter": "B",
+            "text": "determinism"
+          },
+          {
+            "letter": "C",
+            "text": "pragmatism"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Pragmatism evaluates ideas and methods by whether they produce useful, measurable outcomes in practice."
+      },
+      {
+        "number": 12,
+        "prompt": "Which of the following is/are likely to rely on empirical support?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a statement issued by an association that morally opposes a recently approved treatment"
+          },
+          {
+            "letter": "B",
+            "text": "a well-known authority publishes a position paper in a reputable newspaper"
+          },
+          {
+            "letter": "C",
+            "text": "an experiment presented at a high-school science fair"
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "An experiment directly involves observation and data collection. Moral opposition and authority alone do not establish empirical support."
+      },
+      {
+        "number": 13,
+        "prompt": "An intervention is supported by many peer-reviewed experiments published in non-behavioral journals. You initially were skeptical of the intervention because the outcomes are explained in terms that are inconsistent with operant principles. After you successfully implement the experimental procedures described in the literature within your own setting, however, your confidence in the intervention grows. In this case, your revised opinion is a result of the attitude(s) of science known as",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "philosophic doubt."
+          },
+          {
+            "letter": "B",
+            "text": "parsimony."
+          },
+          {
+            "letter": "C",
+            "text": "experimentation."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Your opinion changed after you directly tested the procedure in your setting. That reflects experimentation."
+      },
+      {
+        "number": 14,
+        "prompt": "Which philosophical assumption is best reflected in the following statement: The reinforcing or punishing effects of environmental consequences are a principal mechanism in the development of an individual's behavioral repertoire.",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "empiricism"
+          },
+          {
+            "letter": "B",
+            "text": "selectionism"
+          },
+          {
+            "letter": "C",
+            "text": "determinism"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Selectionism states that consequences select behavior. Reinforcement strengthens responses, while punishment decreases them."
+      },
+      {
+        "number": 15,
+        "prompt": "A child kicks the doctor after being jabbed in the shoulder with a hypodermic needle. This response is primarily",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "phylogenic."
+          },
+          {
+            "letter": "B",
+            "text": "elicited."
+          },
+          {
+            "letter": "C",
+            "text": "ontogenic."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The course feedback identifies the kick as behavior selected by consequences, such as escaping an aversive condition. It is learned during the individual's lifetime, so it is ontogenic."
+      },
+      {
+        "number": 16,
+        "prompt": "Which is a parsimonious statement?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "A high error rate with subtraction problems is a function of incorrect borrowing."
+          },
+          {
+            "letter": "B",
+            "text": "Food refusal occurs because of scar tissue in the esophagus that makes swallowing painful."
+          },
+          {
+            "letter": "C",
+            "text": "A problem behavior during class is maintained by attention from the teacher."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "All three explanations are direct, testable, and use the fewest assumptions needed to account for the behavior."
+      }
+    ]
+  },
+  {
+    "id": "a3-part-1",
+    "code": "A.3 Part 1",
+    "title": "Behaviorism",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "Which is/are a behavior analytic explanation for a child becoming an award-winning pianist?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The child practices a minimum of 10 hours a week."
+          },
+          {
+            "letter": "B",
+            "text": "The child had great talent from an early age."
+          },
+          {
+            "letter": "C",
+            "text": "The child's knowledge of music is strengthened by practice."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "This option describes an observable pattern of behavior. The other choices rely on inferred traits or internal constructs such as talent and knowledge."
+      },
+      {
+        "number": 2,
+        "prompt": "Which is a behavior analytic way to talk about reinforcement?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "When a student's behavior occurs more often after it produces a given consequence, the behavior has been reinforced."
+          },
+          {
+            "letter": "B",
+            "text": "Behavior occurs more often in the future once the student figures out the reinforcement contingency."
+          },
+          {
+            "letter": "C",
+            "text": "A student knows that assignment completion gets reinforced due to his history of this consequence."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Reinforcement is defined by an observable increase in future behavior after a consequence. The other choices use inferred mental processes such as figuring out or knowing."
+      },
+      {
+        "number": 3,
+        "prompt": "Fido (a dog) runs to the door upon hearing the family car pull up to the house. Which explanation(s) of Fido's behavior is/are mentalistic?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The dog's behavior is controlled by the expectation of seeing its owner."
+          },
+          {
+            "letter": "B",
+            "text": "The dog's behavior is evoked by thinking its owner has arrived home."
+          },
+          {
+            "letter": "C",
+            "text": "The dog anticipates being reinforced by its owner's affection."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "All three explanations appeal to inferred internal causes such as expectation, thinking, and anticipation instead of observable environmental relations."
+      },
+      {
+        "number": 4,
+        "prompt": "Mentalism is",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a belief that terms for emotional states (happy, sad, etc.) are valid descriptions of behavior but not explanations of it."
+          },
+          {
+            "letter": "B",
+            "text": "the notion that feelings are simply one form of behavior that can be studied as such."
+          },
+          {
+            "letter": "C",
+            "text": "a term for explanations of behavior that appeal to cognitive, psychological, or neurological constructs."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Mentalism explains behavior by appealing to inferred internal constructs rather than observable environmental variables and learning history."
+      },
+      {
+        "number": 5,
+        "prompt": "Fido (a dog) runs to the door upon hearing the family car pull up to the house. Which explanation(s) of Fido's behavior is/are mentalistic?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The dog's running to the door has been reinforced by affection from its owner."
+          },
+          {
+            "letter": "B",
+            "text": "The car's sound is associated with a high probability of attention."
+          },
+          {
+            "letter": "C",
+            "text": "The dog's running to the door is controlled by the expectation of seeing its owner."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The word expectation refers to an inferred internal state. The first two choices describe reinforcement history and environmental relations."
+      },
+      {
+        "number": 6,
+        "prompt": "Claiming that behavior is caused by internal neurological or cognitive processes is an example of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "mentalism."
+          },
+          {
+            "letter": "B",
+            "text": "cognitivism."
+          },
+          {
+            "letter": "C",
+            "text": "emotionalism."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Mentalism attributes behavior to internal neurological, cognitive, or psychological causes rather than analyzing environmental variables."
+      },
+      {
+        "number": 7,
+        "prompt": "From a behavior analytic point of view, feelings and emotions are",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "respondents, explainable in the same terms as overt behavior."
+          },
+          {
+            "letter": "B",
+            "text": "a principal cause of observable, measurable behavior."
+          },
+          {
+            "letter": "C",
+            "text": "constructs that serve no purpose in the study of behavior."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Behavior analysts treat feelings and emotions as private events or responses that can be analyzed using the same principles as overt behavior."
+      },
+      {
+        "number": 8,
+        "prompt": "Stating that a behavior such as smiling is caused by a good mood-that is, by something we infer upon observing the behavior-is an example of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a behavioral account."
+          },
+          {
+            "letter": "B",
+            "text": "a functional definition."
+          },
+          {
+            "letter": "C",
+            "text": "an explanatory fiction."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The explanation is circular: a good mood is inferred from smiling and then used to explain the same smiling."
+      },
+      {
+        "number": 9,
+        "prompt": "From a behavior analytic point of view, feelings and emotions are",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "explainable in the same terms as overt behavior."
+          },
+          {
+            "letter": "B",
+            "text": "incorrectly thought of as causes of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "a proper subject for study in behavior analysis."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Behavior analysis treats feelings and emotions as private events that can be studied, but it does not use them as independent causes of behavior."
+      },
+      {
+        "number": 10,
+        "prompt": "With respect to behavior, mentalism",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "establishes antecedents as its primary cause."
+          },
+          {
+            "letter": "B",
+            "text": "appeals to hypothetical events as its cause."
+          },
+          {
+            "letter": "C",
+            "text": "refers to contingencies of reinforcement as its primary cause."
+          },
+          {
+            "letter": "D",
+            "text": "is concerned with mental illness and pathology of behavior."
+          },
+          {
+            "letter": "E",
+            "text": "attributes causality to observable behavior."
+          },
+          {
+            "letter": "F",
+            "text": "tends to halt further inquiry into its causes."
+          }
+        ],
+        "correct": [
+          "A",
+          "B",
+          "F"
+        ],
+        "multiple": true,
+        "explanation": "The module feedback identifies three correct options. Mentalistic accounts commonly point to what came before the behavior, appeal to hypothetical internal events, and may stop further investigation of environmental causes."
+      },
+      {
+        "number": 11,
+        "prompt": "Behavior analytic explanations of behavior",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are expressed primarily with respect to observable behavior."
+          },
+          {
+            "letter": "B",
+            "text": "place causal events in the physical environment."
+          },
+          {
+            "letter": "C",
+            "text": "refer to consequences as the primary causal mechanism."
+          },
+          {
+            "letter": "D",
+            "text": "do not consider thoughts and feelings to be important."
+          },
+          {
+            "letter": "E",
+            "text": "are concerned with mental illness and pathology of behavior."
+          }
+        ],
+        "correct": [
+          "A",
+          "B",
+          "C"
+        ],
+        "multiple": true,
+        "explanation": "Behavior analysis explains behavior through observable relations with the environment, especially the consequences that shape and maintain behavior. Thoughts and feelings are considered private events rather than ignored."
+      },
+      {
+        "number": 12,
+        "prompt": "Which is/are a behavior analytic explanation for a child becoming an award-winning pianist?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The child's skills are strengthened by practice."
+          },
+          {
+            "letter": "B",
+            "text": "The child began practicing at an early age."
+          },
+          {
+            "letter": "C",
+            "text": "The child practices a minimum of 10 hours a week."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Each option refers to observable practice or learning history, so all are consistent with a behavior analytic explanation."
+      },
+      {
+        "number": 13,
+        "prompt": "Which is a mentalistic way to talk about reinforcement?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "When a student's behavior occurs more often after it produces a given consequence, the behavior has been reinforced."
+          },
+          {
+            "letter": "B",
+            "text": "A student began getting better quiz scores as a result of the teacher reinforcing class participation."
+          },
+          {
+            "letter": "C",
+            "text": "A student knows that assignment completion gets reinforced because of the student's history of this consequence."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The phrase 'a student knows' appeals to an inferred internal state. The other choices describe observable behavior and consequences."
+      }
+    ]
+  },
+  {
+    "id": "a3-part-2",
+    "code": "A.3 Part 2",
+    "title": "Radical vs. Methodological Behaviorism",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "According to Skinner's philosophy of radical behaviorism,",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the study of behavior should consist of direct observation of environmental events and events within the organism should be ignored."
+          },
+          {
+            "letter": "B",
+            "text": "private events are unobservable and should be excluded from the analysis of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "private (covert) events are fundamentally the same as public (overt) behavior, other than simply being unobservable by others."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Radical behaviorism includes private events such as thoughts and feelings as behavior. They are governed by the same behavioral processes as publicly observable behavior."
+      },
+      {
+        "number": 2,
+        "prompt": "An S-O-R model of psychology",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "seeks to explain behavior as a response to antecedent stimuli."
+          },
+          {
+            "letter": "B",
+            "text": "studies observable behavior in order to make inferences about presumed internal causal processes."
+          },
+          {
+            "letter": "C",
+            "text": "seeks to explain behavior as a function of both antecedent and consequent events."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The S-O-R model uses observable stimuli and responses to infer internal organismic events that are presumed to cause behavior."
+      },
+      {
+        "number": 3,
+        "prompt": "Studying observable behavior in order to make inferences about internal events presumed to cause behavior is a(n) model of psychology.",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "S-R-S"
+          },
+          {
+            "letter": "B",
+            "text": "methodological"
+          },
+          {
+            "letter": "C",
+            "text": "S-O-R"
+          },
+          {
+            "letter": "D",
+            "text": "S-R"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "S-O-R stands for stimulus-organism-response. The organism component represents presumed internal processes inferred from observable behavior."
+      },
+      {
+        "number": 4,
+        "prompt": "Methodological behaviorism",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "seeks to explain all behavior as a response to antecedent environmental stimuli."
+          },
+          {
+            "letter": "B",
+            "text": "is the theory and practice of behavior analysts who espouse an S-R-S model but confine their study to observable events."
+          },
+          {
+            "letter": "C",
+            "text": "studies observable behavior in order to make inferences about presumed internal causal processes."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Methodological behaviorism uses an S-R-S framework but limits scientific study to events that are publicly observable."
+      },
+      {
+        "number": 5,
+        "prompt": "Traditional schools of psychology study presumed internal processes and conscious states of mind that are considered to be causes of behavior. This perspective is characteristic of a approach.",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "mentalistic"
+          },
+          {
+            "letter": "B",
+            "text": "radical behaviorist"
+          },
+          {
+            "letter": "C",
+            "text": "behaviorist"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "A mentalistic approach treats internal states or hypothetical processes as causes that explain behavior."
+      },
+      {
+        "number": 6,
+        "prompt": "The idea that behavior occurs as a function of antecedent and consequent events occurring in the physical environment - an S-R-S model of psychology - is a feature of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Skinnerian behaviorism and Watsonian behaviorism."
+          },
+          {
+            "letter": "B",
+            "text": "Skinnerian behaviorism and methodological behaviorism."
+          },
+          {
+            "letter": "C",
+            "text": "Watsonian behaviorism and methodological behaviorism."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Both Skinnerian and methodological behaviorism use the S-R-S model. Watsonian behaviorism is associated with the simpler S-R model."
+      },
+      {
+        "number": 7,
+        "prompt": "Radical behaviorism asserts that private events are",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "hypothetical constructs that cannot be experimentally tested."
+          },
+          {
+            "letter": "B",
+            "text": "regarded as confidential and therefore must be protected according to professional ethical standards."
+          },
+          {
+            "letter": "C",
+            "text": "behavioral events that are unobservable by others but that are controlled by the same behavioral processes that control public events."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Radical behaviorism treats private events as behavior. Their defining difference is that other people cannot directly observe them."
+      },
+      {
+        "number": 8,
+        "prompt": "Using empirically derived principles to conduct a comprehensive analysis of all human behavior, including behavior that is not publicly observable, is the goal of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "methodological behaviorism"
+          },
+          {
+            "letter": "B",
+            "text": "radical behaviorism"
+          },
+          {
+            "letter": "C",
+            "text": "Watsonian behaviorism"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Radical behaviorism includes both public behavior and private events within a natural-science analysis of behavior."
+      },
+      {
+        "number": 9,
+        "prompt": "Radical behaviorism is",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "an S-O-R model of psychology: behavior occurs in response to stimuli in the physical environment, but is controlled by internal processes."
+          },
+          {
+            "letter": "B",
+            "text": "an S-R-S model of psychology: behavior is a function of antecedent and consequent events occurring in the physical environment."
+          },
+          {
+            "letter": "C",
+            "text": "an S-R model of psychology: behavior is triggered or elicited by stimuli in the physical environment."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Radical behaviorism uses the three-term contingency, which examines behavior in relation to antecedent and consequent events."
+      },
+      {
+        "number": 10,
+        "prompt": "The S-R model of psychology that claimed behavior is a response to antecedent environmental stimuli was the original form of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "behaviorism."
+          },
+          {
+            "letter": "B",
+            "text": "radical behaviorism."
+          },
+          {
+            "letter": "C",
+            "text": "methodological behaviorism."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "John Watson's original behaviorism used an S-R model that explained behavior as a response to antecedent environmental stimuli."
+      },
+      {
+        "number": 11,
+        "prompt": "Investigation of human behavior by radical behaviorists involves",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a comprehensive description of all human behavior (overt and covert) according to principles derived from the empirical study of behavior."
+          },
+          {
+            "letter": "B",
+            "text": "discovering relationships between environmental stimuli and the responses elicited by those stimuli."
+          },
+          {
+            "letter": "C",
+            "text": "investigation of public behavior as a basis for making inferences about presumed mediating variables that affect it."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Radical behaviorism applies empirically derived behavioral principles to both overt and covert behavior without treating private events as separate mental causes."
+      },
+      {
+        "number": 12,
+        "prompt": "This is a term for the practice of some behavior analysts who espouse an S-R-S model but who confine their study strictly to observable events.",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Watsonian behaviorism."
+          },
+          {
+            "letter": "B",
+            "text": "methodological behaviorism."
+          },
+          {
+            "letter": "C",
+            "text": "radical behaviorism."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Methodological behaviorism directly studies observable events while excluding private events from its scientific analysis."
+      },
+      {
+        "number": 13,
+        "prompt": "Behaviorism broke with traditional psychology by asserting that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "publicly observable behavior should be studied in order to gain an understanding of the internal processes that affect it."
+          },
+          {
+            "letter": "B",
+            "text": "the determinants of behavior were to be found in the mediational variables that determine how individuals process information."
+          },
+          {
+            "letter": "C",
+            "text": "the determinants of behavior were to be found in the environment rather than in the mind."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Behaviorism shifted explanation away from internal mental causes and toward observable relations between behavior and the environment."
+      },
+      {
+        "number": 14,
+        "prompt": "In the term RADICAL BEHAVIORISM, the word RADICAL means",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a dramatically eccentric person or school of thought."
+          },
+          {
+            "letter": "B",
+            "text": "relating to the fundamental nature of something; far-reaching and thorough."
+          },
+          {
+            "letter": "C",
+            "text": "advocating thorough or complete change, especially political or social reform."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Here, radical refers to a thorough analysis of behavior at its fundamental level, including public and private events."
+      },
+      {
+        "number": 15,
+        "prompt": "A child reports feeling lots of anxiety at school. After speaking with and observing the child, you determine that the child is very uncomfortable in unstructured social situations like lunch period and recess. You therefore decide to substantially increase descriptive praise and feedback for the child's other appropriate behavior in those settings (\"catch them being good\") in an effort to bolster their confidence in social situations. Your approach most closely represents",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a mentalistic view of behavior"
+          },
+          {
+            "letter": "B",
+            "text": "radical behaviorism."
+          },
+          {
+            "letter": "C",
+            "text": "methodological behaviorism."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The plan treats confidence as a hypothetical internal cause that should be strengthened. A radical behavioral approach would directly teach and reinforce social-engagement skills instead."
+      },
+      {
+        "number": 16,
+        "prompt": "In order to say that private events are behavioral (rather than mental) phenomena, radical behaviorism assumes that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "they function as explanations for behavior and can be understood through experimental investigation of observable behavior."
+          },
+          {
+            "letter": "B",
+            "text": "like overt behavior, their origin is to be found in observable organism-environment interactions."
+          },
+          {
+            "letter": "C",
+            "text": "they can be explained by different processes than those demonstrated to control observable behavior."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Radical behaviorism assumes that private and public behavior arise from the same kinds of organism-environment interactions and follow the same behavioral principles."
+      },
+      {
+        "number": 17,
+        "prompt": "A child reports feeling lots of anxiety at school. After speaking with and observing the child, you determine that the child is very uncomfortable in unstructured social situations like lunch period and recess. You therefore decide to use behavioral skills training to role play particular initiations, and to measure any changes in the child's engagement with peers. Your approach most closely represents",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "methodological behaviorism."
+          },
+          {
+            "letter": "B",
+            "text": "a mentalistic view of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "radical behaviorism."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The intervention directly targets and measures observable social engagement without using anxiety as a causal mechanism or explicitly incorporating the private event into the analysis."
+      },
+      {
+        "number": 18,
+        "prompt": "A child reports feeling lots of anxiety at school. After speaking with and observing the child, you determine that the child is very uncomfortable in unstructured social situations like lunch period and recess. You therefore decide to shape and reinforce the child's social initiations, in which they practice positive self-statements that acknowledge nervous feelings while engaging in some tolerable approximation of social engagement. Your approach most closely represents",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a mentalistic view of behavior."
+          },
+          {
+            "letter": "B",
+            "text": "methodological behaviorism."
+          },
+          {
+            "letter": "C",
+            "text": "radical behaviorism."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The intervention acknowledges private events while using shaping and reinforcement to increase observable social engagement. This is consistent with radical behaviorism."
+      }
+    ]
+  },
+  {
+    "id": "a3-part-3",
+    "code": "A.3 Part 3",
+    "title": "Private Events",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "A child says, “May I have some candy, please,” because",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the behavior of asking nicely often produces candy."
+          },
+          {
+            "letter": "B",
+            "text": "the child thinks they can get candy if they ask nicely."
+          },
+          {
+            "letter": "C",
+            "text": "the child knows that you must ask nicely to get the candy."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The child’s request is explained by a history of reinforcement. Asking politely has often resulted in receiving candy, so that behavior is more likely to occur again. Thoughts or knowledge are not treated as the cause of the behavior."
+      },
+      {
+        "number": 2,
+        "prompt": "After working late, a person was waiting at the elevator to go home. The door opened and there was a rough looking man on the elevator. The person said, “Oh, I forgot my papers,” and turned away. Which account of the person’s behavior is acceptable from a behavior analytic point of view?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The fear elicited by the man’s appearance caused the person to walk away from an uncomfortable situation."
+          },
+          {
+            "letter": "B",
+            "text": "The presence of a fearsome man activated the person’s self-preservation instinct."
+          },
+          {
+            "letter": "C",
+            "text": "The man’s appearance elicited fear and also evoked avoidance behavior maintained by negative reinforcement."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "A behavior-analytic account can include fear as a private event while explaining avoidance through environmental contingencies. Walking away removes or avoids the uncomfortable situation, which can negatively reinforce the response."
+      },
+      {
+        "number": 3,
+        "prompt": "From a behavior analytic perspective, it is likely that a child exhibits stereotypic behavior because",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "they have an autism spectrum disorder."
+          },
+          {
+            "letter": "B",
+            "text": "they think they will get attention."
+          },
+          {
+            "letter": "C",
+            "text": "it produces automatic reinforcement."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Stereotypic behavior may continue because the sensory consequences produced by the behavior are reinforcing. A diagnosis does not identify the behavior’s function, and an assumed thought is not a sufficient functional explanation."
+      },
+      {
+        "number": 4,
+        "prompt": "(Select all of the one or more correct options.) Which are private events?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a tickling sensation from someone whispering in your ear"
+          },
+          {
+            "letter": "B",
+            "text": "feeling the heat of 90 degree weather at a crowded amusement park"
+          },
+          {
+            "letter": "C",
+            "text": "remembering items written on a grocery list you left at home"
+          },
+          {
+            "letter": "D",
+            "text": "the words of someone whispering in your ear"
+          },
+          {
+            "letter": "E",
+            "text": "a feverish person saying to you, “I’m burning up inside”"
+          },
+          {
+            "letter": "F",
+            "text": "the pain from getting hit by a pitch in baseball G. getting hit by a pitch in baseball"
+          }
+        ],
+        "correct": [
+          "A",
+          "B",
+          "C",
+          "F"
+        ],
+        "multiple": true,
+        "explanation": "Private events are directly accessible only to the person experiencing them. Sensations, remembering, and pain are private. The whispered words, the spoken statement, and the baseball impact are publicly observable events."
+      },
+      {
+        "number": 5,
+        "prompt": "(Select all of the one or more correct options.) A private event",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is not governed by the same principles as overt behavior."
+          },
+          {
+            "letter": "B",
+            "text": "is stimulation that occurs only within the skin of the behaver."
+          },
+          {
+            "letter": "C",
+            "text": "affects only one person."
+          },
+          {
+            "letter": "D",
+            "text": "is stimulation that is evident only to the behaver."
+          },
+          {
+            "letter": "E",
+            "text": "includes thinking (i.e., covert verbal behavior)."
+          }
+        ],
+        "correct": [
+          "C",
+          "D",
+          "E"
+        ],
+        "multiple": true,
+        "explanation": "Private events follow the same behavioral principles as overt behavior. They affect only one person and are directly evident only to that person. Thinking can be treated as covert verbal behavior. Private stimulation does not have to originate within the skin because an outside event can produce a private sensation."
+      }
+    ]
+  },
+  {
+    "id": "a4",
+    "code": "A.4",
+    "title": "Behavior Analysis",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "When engaging in practice guided by behavior analysis, you must evaluate",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "whether a treatment package produces the desired results."
+          },
+          {
+            "letter": "B",
+            "text": "a treatment package's efficiency compared to other interventions."
+          },
+          {
+            "letter": "C",
+            "text": "the contributions of each element of a treatment package."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Practice guided by behavior analysis applies established procedures and monitors whether they produce meaningful improvement for the client. Comparing interventions or isolating package components requires a more systematic experimental analysis."
+      },
+      {
+        "number": 2,
+        "prompt": "When the teacher puts a large green placard on the board, the students earn points for raising their right hand to ask a question. When the placard is red, students earn points for raising their left hand. Alternating treatment data show that the conditions quickly become discriminative for when students raising their right or left hand will be reinforced. This vignette most closely exemplifies",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "applied behavior analysis (ABA)."
+          },
+          {
+            "letter": "B",
+            "text": "the experimental analysis of behavior (EAB)."
+          },
+          {
+            "letter": "C",
+            "text": "practice guided by behavior analysis."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The arrangement tests a basic behavioral process, stimulus control, under experimental conditions. Its purpose is to examine a general behavior-environment relation rather than solve an important client problem."
+      },
+      {
+        "number": 3,
+        "prompt": "Practice guided by behavior analysis",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "searches for and investigates universal principles to account for the behavior of organisms."
+          },
+          {
+            "letter": "B",
+            "text": "researches the translation of basic behavioral principles into widely applicable technologies for improving socially significant problems."
+          },
+          {
+            "letter": "C",
+            "text": "attempts to directly apply and monitor behaviorally derived methods to improve socially important behavior."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Professional practice directly applies established behavioral methods and monitors their effects on socially important behavior for individual clients."
+      },
+      {
+        "number": 4,
+        "prompt": "Translating basic behavioral principles into widely applicable methods for improving social problems is a goal of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "applied behavior analysis."
+          },
+          {
+            "letter": "B",
+            "text": "the experimental analysis of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "practice guided by behavior analysis."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "ABA translates basic principles into broadly useful behavior-change technologies for socially significant problems."
+      },
+      {
+        "number": 5,
+        "prompt": "A BCBA works with several clients who were recently diagnosed with food allergies. The clients will begin eating restricted diets to address the allergies and the BCBA suspects the food restrictions might result in improvements in the clients' target behaviors. The families agree to work with the BCBA to evaluate the independent and combined effects of the diet and behavior change programs using a multiple baseline across subjects design. The BCBA is engaging in",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "applied behavior analysis."
+          },
+          {
+            "letter": "B",
+            "text": "the experimental analysis of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "practice guided by behavior analysis."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The BCBA is experimentally evaluating independent and combined effects on socially significant client behavior using a multiple-baseline design. That combination of application and experimental analysis is ABA."
+      },
+      {
+        "number": 6,
+        "prompt": "Which of the following is NOT characteristic of applied behavior analysis?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "It pursues outcomes that are of significance to participants."
+          },
+          {
+            "letter": "B",
+            "text": "It addresses only important pathological behavior."
+          },
+          {
+            "letter": "C",
+            "text": "It has its theoretical underpinnings in behaviorism."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "ABA addresses many forms of socially significant behavior, including communication, learning, safety, work performance, health, and daily living. It is not limited to pathological behavior."
+      },
+      {
+        "number": 7,
+        "prompt": "Applied behavior analysis",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "attempts to directly apply and measure behaviorally derived methods for improving social problems."
+          },
+          {
+            "letter": "B",
+            "text": "searches for and investigates universal principles to account for the behavior of organisms."
+          },
+          {
+            "letter": "C",
+            "text": "translates basic behavioral principles into widely applicable methods for improving social problems."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "ABA develops and evaluates broadly applicable behavior-change methods based on basic behavioral principles."
+      },
+      {
+        "number": 8,
+        "prompt": "When the teacher wears a baseball cap, all students will be called on when they raise a hand to ask a question. When the teacher has no hat on, students' questions will not be addressed. Call outs will be ignored. Reversal data show that the students quickly demonstrate discriminative responding according to when asking questions will be extinguished or reinforced. This vignette most closely exemplifies",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "applied behavior analysis (ABA)."
+          },
+          {
+            "letter": "B",
+            "text": "practice guided by behavior analysis."
+          },
+          {
+            "letter": "C",
+            "text": "the experimental analysis of behavior (EAB)."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The intervention targets socially important classroom behavior and uses reversal data to demonstrate a functional relation. Those features characterize ABA."
+      },
+      {
+        "number": 9,
+        "prompt": "A teacher combines several empirically validated strategies to form a behavior management system and then measures its effectiveness with students. These activities are best characterized as",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "practice guided by behavior analysis."
+          },
+          {
+            "letter": "B",
+            "text": "experimental analysis of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "applied behavior analysis."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The teacher applies established strategies as a package and measures whether they work in practice. No experimental design is described for identifying a generalizable functional relation."
+      },
+      {
+        "number": 10,
+        "prompt": "The experimental analysis of behavior",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "attempts to directly apply and measure behaviorally derived methods to improve socially important behavior."
+          },
+          {
+            "letter": "B",
+            "text": "searches for and investigates universal principles to account for the behavior of organisms."
+          },
+          {
+            "letter": "C",
+            "text": "translates basic behavioral principles into widely applicable methods for improving social problems."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "EAB is the basic science of behavior. It investigates general principles and behavior-environment relations under controlled conditions."
+      },
+      {
+        "number": 11,
+        "prompt": "Directly improving socially important behavior through the application and measurement of behavioral technology is a goal of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "applied behavior analysis."
+          },
+          {
+            "letter": "B",
+            "text": "practice guided by behavior analysis."
+          },
+          {
+            "letter": "C",
+            "text": "the experimental analysis of behavior."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Professional practice uses behavioral technology directly with clients and measures whether it improves socially important behavior."
+      },
+      {
+        "number": 12,
+        "prompt": "When the teacher is standing at the board, all students will be called on when they raise a hand to ask a question. When the teacher is seated at a desk, students' questions will not be addressed. Call outs will be ignored. After two weeks, data show that several students who frequently yelled out their questions have learned that only raising a hand when the teacher is at the board will be reinforced. This vignette most closely exemplifies",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "practice guided by behavior analysis."
+          },
+          {
+            "letter": "B",
+            "text": "the experimental analysis of behavior (EAB)."
+          },
+          {
+            "letter": "C",
+            "text": "applied behavior analysis (ABA)."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The teacher applies reinforcement and extinction procedures and monitors improvement over time. Because no experimental design is used to demonstrate a functional relation, this is practice guided by behavior analysis."
+      },
+      {
+        "number": 13,
+        "prompt": "Accounting for the behavior of organisms through the controlled investigation of universal principles is a goal of",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "practice guided by behavior analysis."
+          },
+          {
+            "letter": "B",
+            "text": "the experimental analysis of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "applied behavior analysis."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "EAB conducts controlled investigations to identify universal behavioral principles that account for the behavior of organisms."
+      },
+      {
+        "number": 14,
+        "prompt": "Which of the following is NOT a characteristic of the experimental analysis of behavior?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "It requires intensive and ongoing observation or measurement."
+          },
+          {
+            "letter": "B",
+            "text": "It provides the foundation from which many solutions to important societal problems are derived."
+          },
+          {
+            "letter": "C",
+            "text": "It has its theoretical underpinnings in behaviorism."
+          },
+          {
+            "letter": "D",
+            "text": "It is a method for studying socially meaningful behavior under natural conditions."
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "EAB usually investigates basic behavioral processes under controlled conditions. Studying socially meaningful behavior under natural conditions is more characteristic of applied behavior analysis."
+      }
+    ]
+  },
+  {
+    "id": "a5-part-1",
+    "code": "A.5 Part 1",
+    "title": "Dimensions of Applied Behavior Analysis",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "Which exemplifies the \"analytic\" dimension of applied behavior analysis?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "preference assessment"
+          },
+          {
+            "letter": "B",
+            "text": "relevance of the behavioral measure"
+          },
+          {
+            "letter": "C",
+            "text": "a demonstration of reliability"
+          },
+          {
+            "letter": "D",
+            "text": "clinically significant changes in behavior"
+          },
+          {
+            "letter": "E",
+            "text": "a child learning to speak as the target behavior"
+          },
+          {
+            "letter": "F",
+            "text": "a demonstration of experimental control"
+          }
+        ],
+        "correct": [
+          "F"
+        ],
+        "multiple": false,
+        "explanation": "The analytic dimension requires a believable demonstration that the intervention, rather than another variable, produced the behavior change. This is shown through experimental control."
+      },
+      {
+        "number": 2,
+        "prompt": "The \"conceptually systematic\" dimension of applied behavior analysis means that",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "experimental control is demonstrated."
+          },
+          {
+            "letter": "B",
+            "text": "procedures are described in enough detail to enable replication."
+          },
+          {
+            "letter": "C",
+            "text": "experiments are conducted in an orderly manner and easily conceptualized."
+          },
+          {
+            "letter": "D",
+            "text": "procedures are described in terms of basic principles."
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Conceptually systematic procedures are connected to established behavioral principles, such as reinforcement, extinction, stimulus control, and motivating operations."
+      },
+      {
+        "number": 3,
+        "prompt": "According to Baer, Wolf, & Risley (1968), the \"applied\" dimension of applied behavior analysis refers to addressing behaviors",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "of social etiquette."
+          },
+          {
+            "letter": "B",
+            "text": "of humans."
+          },
+          {
+            "letter": "C",
+            "text": "of social importance."
+          },
+          {
+            "letter": "D",
+            "text": "that influence cultural practices."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Applied behavior analysis targets behavior that has practical value and social importance for the participant and relevant people in the participant's life."
+      },
+      {
+        "number": 4,
+        "prompt": "The \"applied\" dimension of applied behavior analysis requires",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "practical and significant changes in behavior."
+          },
+          {
+            "letter": "B",
+            "text": "a focus on behaviors that are important to both the individual and society."
+          },
+          {
+            "letter": "C",
+            "text": "believable demonstrations of the events responsible for behavior change."
+          },
+          {
+            "letter": "D",
+            "text": "demonstration of experimental control."
+          },
+          {
+            "letter": "E",
+            "text": "the study of what people do."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The applied dimension concerns the social importance of the target behavior. Practical and significant change describes effectiveness, while experimental control describes the analytic dimension."
+      },
+      {
+        "number": 5,
+        "prompt": "\"Generality,\" as a dimension of applied behavior analysis is evidenced by effective results obtained across",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "procedural variations."
+          },
+          {
+            "letter": "B",
+            "text": "settings."
+          },
+          {
+            "letter": "C",
+            "text": "contrived reinforcers."
+          },
+          {
+            "letter": "D",
+            "text": "individuals."
+          },
+          {
+            "letter": "E",
+            "text": "functional assessments."
+          }
+        ],
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ],
+        "multiple": true,
+        "explanation": "Generality is demonstrated when behavior change lasts over time and extends across people, settings, behaviors, or variations in procedures."
+      },
+      {
+        "number": 6,
+        "prompt": "The \"analytic\" dimension of applied behavior analysis requires",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that procedures are described in terms of basic principles of behavior."
+          },
+          {
+            "letter": "B",
+            "text": "experimental control over environmental events responsible for behavior change."
+          },
+          {
+            "letter": "C",
+            "text": "focusing on behaviors that are meaningful to both the individual and society."
+          },
+          {
+            "letter": "D",
+            "text": "studying what people do, in observable and measurable terms."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The analytic dimension requires evidence of a functional relation between environmental variables and behavior through experimental control."
+      },
+      {
+        "number": 7,
+        "prompt": "The \"analytic\" dimension of applied behavior analysis involves identifying a functional relationship between behavior and",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "environmental events."
+          },
+          {
+            "letter": "B",
+            "text": "collateral responses."
+          },
+          {
+            "letter": "C",
+            "text": "its physiological determinants."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Behavior analysis identifies functional relations between behavior and environmental events, such as antecedents and consequences."
+      },
+      {
+        "number": 8,
+        "prompt": "The \"technological\" dimension of applied behavior analysis involves",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the use of technical, behavioral terminology to explain procedures."
+          },
+          {
+            "letter": "B",
+            "text": "procedures that are comprehensively explained so that a trained reader could replicate them."
+          },
+          {
+            "letter": "C",
+            "text": "a specific and detailed description of the procedures."
+          },
+          {
+            "letter": "D",
+            "text": "a complete and thorough description of the procedures."
+          },
+          {
+            "letter": "E",
+            "text": "the use of technology in the analysis and interpretation of data."
+          },
+          {
+            "letter": "F",
+            "text": "a complete application of a range of behavioral technology."
+          }
+        ],
+        "correct": [
+          "B",
+          "C",
+          "D"
+        ],
+        "multiple": true,
+        "explanation": "Technological means the procedures are described clearly, specifically, and completely enough for a trained reader to reproduce them accurately."
+      },
+      {
+        "number": 9,
+        "prompt": "The \"conceptually systematic\" dimension of applied behavior analysis requires",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that procedures are described in terms of basic principles of behavior."
+          },
+          {
+            "letter": "B",
+            "text": "behavior change that is durable, occurs in a variety of environments, or generalizes across a variety of behaviors."
+          },
+          {
+            "letter": "C",
+            "text": "behavior change procedures are described specifically and completely enough that a trained reader could replicate them."
+          },
+          {
+            "letter": "D",
+            "text": "believable demonstrations of the events responsible for behavior change."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Conceptually systematic interventions are explained through basic principles of behavior. The other options describe generality, technological, and analytic dimensions."
+      },
+      {
+        "number": 10,
+        "prompt": "The \"applied\" dimension of applied behavior analysis involves",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "using basic principles to solve problems of significance to participants."
+          },
+          {
+            "letter": "B",
+            "text": "resolving significant basic questions of principles of behavior."
+          },
+          {
+            "letter": "C",
+            "text": "using significant problems of participants to study basic principles."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Applied work uses behavioral principles to address problems that are meaningful and important to the participant."
+      },
+      {
+        "number": 11,
+        "prompt": "The \"behavioral\" dimension of applied behavior analysis",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "refers to defining the problem in terms of the behaviors that need to be changed."
+          },
+          {
+            "letter": "B",
+            "text": "refers to reliance on behavioral philosophy to determine intervention."
+          },
+          {
+            "letter": "C",
+            "text": "requires studying what people do."
+          },
+          {
+            "letter": "D",
+            "text": "refers to focusing on observable and cognitive behaviors exclusively."
+          },
+          {
+            "letter": "E",
+            "text": "means focusing on behavior as the basis of intervention and target for change."
+          }
+        ],
+        "correct": [
+          "A",
+          "C",
+          "E"
+        ],
+        "multiple": true,
+        "explanation": "The behavioral dimension focuses on what people do. Problems, interventions, and outcomes are stated in terms of behavior that can be observed and measured."
+      },
+      {
+        "number": 12,
+        "prompt": "The \"effective\" dimension of applied behavior analysis involves",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "procedures that bring about behavior change efficiently."
+          },
+          {
+            "letter": "B",
+            "text": "demonstrating a functional relationship between behavior and environmental events."
+          },
+          {
+            "letter": "C",
+            "text": "procedures that produce practical and significant changes in behavior."
+          },
+          {
+            "letter": "D",
+            "text": "intervention packages that are cost effective."
+          },
+          {
+            "letter": "E",
+            "text": "treatment that results in a clinically significant change in an important dimension of behavior."
+          },
+          {
+            "letter": "F",
+            "text": "permanent changes in behavior."
+          }
+        ],
+        "correct": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "multiple": true,
+        "explanation": "Effective interventions produce meaningful, practical, and clinically significant behavior change. Efficiency and cost effectiveness also matter. A functional relation describes the analytic dimension, while permanent change is not required."
+      }
+    ]
+  },
+  {
+    "id": "a5-part-2",
+    "code": "A.5 Part 2",
+    "title": "Dimensions of Applied Behavior Analysis",
+    "durationMinutes": 60,
+    "questions": [
+      {
+        "number": 1,
+        "prompt": "Which question considers the applied dimension of applied behavior analysis?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "How do you increase social behavior?"
+          },
+          {
+            "letter": "B",
+            "text": "What environmental arrangements will foster pollination in zoo plants?"
+          },
+          {
+            "letter": "C",
+            "text": "How do you increase crop yields through ecological interventions?"
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The applied dimension addresses socially meaningful behavior. Increasing social behavior directly concerns behavior that matters to an individual and society; the plant-focused options do not."
+      },
+      {
+        "number": 2,
+        "prompt": "Generality is exemplified when treatment effects continue",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "only after new procedures are implemented."
+          },
+          {
+            "letter": "B",
+            "text": "while the intervention remains in effect."
+          },
+          {
+            "letter": "C",
+            "text": "when implemented by unfamiliar staff."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Generality occurs when behavior change extends across people, settings, behaviors, or time. Unfamiliar staff represent a change across people or conditions."
+      },
+      {
+        "number": 3,
+        "prompt": "Believable demonstrations of control over the events responsible for behavior change reflect which dimension of ABA?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "generality"
+          },
+          {
+            "letter": "B",
+            "text": "applied"
+          },
+          {
+            "letter": "C",
+            "text": "analytic"
+          },
+          {
+            "letter": "D",
+            "text": "effective"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The analytic dimension requires convincing evidence that the intervention, rather than another variable, caused the behavior change."
+      },
+      {
+        "number": 4,
+        "prompt": "The \"behavioral\" dimension of applied behavior analysis is exemplified by",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a child learning to speak as the target behavior."
+          },
+          {
+            "letter": "B",
+            "text": "a child learning to process information as the target behavior."
+          },
+          {
+            "letter": "C",
+            "text": "a parrot speaking as an independent variable."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Speaking is directly observable and measurable. \"Processing information\" is vague and internal, and a parrot speaking would be a dependent variable rather than an independent variable."
+      },
+      {
+        "number": 5,
+        "prompt": "The requirement that procedures produce practical and significant changes in behavior refers to which dimension of ABA?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "effective"
+          },
+          {
+            "letter": "B",
+            "text": "generality"
+          },
+          {
+            "letter": "C",
+            "text": "behavioral"
+          },
+          {
+            "letter": "D",
+            "text": "applied"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The effective dimension requires behavior change to be large enough to make a practical and meaningful difference."
+      },
+      {
+        "number": 6,
+        "prompt": "\"Conceptually systematic\" is exemplified when a reduction in behavior is described as resulting from",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "loss of motivation."
+          },
+          {
+            "letter": "B",
+            "text": "cognitive restructuring."
+          },
+          {
+            "letter": "C",
+            "text": "extinction."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Conceptually systematic descriptions use established behavioral principles. Extinction is a basic behavior-analytic principle in which reinforcement for a previously reinforced behavior is discontinued."
+      },
+      {
+        "number": 7,
+        "prompt": "The requirement that behavior change procedures are described specifically and completely enough that a trained reader could replicate them refers to which dimension of ABA?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "technological"
+          },
+          {
+            "letter": "B",
+            "text": "generality"
+          },
+          {
+            "letter": "C",
+            "text": "effective"
+          },
+          {
+            "letter": "D",
+            "text": "conceptually systematic"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "The technological dimension requires enough procedural detail for another trained person to reproduce the intervention accurately."
+      },
+      {
+        "number": 8,
+        "prompt": "Which question is most concerned with an \"applied\" problem, as defined in applied behavior analysis?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "What arrangements will help zoo animals accept medication?"
+          },
+          {
+            "letter": "B",
+            "text": "How many people applied for jobs last month?"
+          },
+          {
+            "letter": "C",
+            "text": "What effect do psychotropic meds have on liver functioning?"
+          },
+          {
+            "letter": "D",
+            "text": "How many M&Ms; does it take to satiate a 6-year-old?"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Helping zoo animals accept medication targets a meaningful behavior and asks how environmental arrangements can improve it. The other options are descriptive, biological, or focused on satiation."
+      },
+      {
+        "number": 9,
+        "prompt": "A behavior analyst is able to replicate a procedure based on its written description. This reflects which dimension of applied behavior analysis?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "technological"
+          },
+          {
+            "letter": "B",
+            "text": "behavioral"
+          },
+          {
+            "letter": "C",
+            "text": "applied"
+          },
+          {
+            "letter": "D",
+            "text": "reliability"
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "A written procedure that another trained analyst can replicate demonstrates the technological dimension."
+      },
+      {
+        "number": 10,
+        "prompt": "The \"behavioral\" dimension of applied behavior analysis is exemplified by",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "gagging when smelling particular odors."
+          },
+          {
+            "letter": "B",
+            "text": "rapid eye movement while sleeping."
+          },
+          {
+            "letter": "C",
+            "text": "sweating when presented with frightening stimuli."
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Each example is an observable and measurable response. Therefore, all three fit the behavioral dimension."
+      },
+      {
+        "number": 11,
+        "prompt": "The \"behavioral\" dimension of applied behavior analysis is exemplified by",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "talking as a target behavior."
+          },
+          {
+            "letter": "B",
+            "text": "complete and precise description of procedures."
+          },
+          {
+            "letter": "C",
+            "text": "generalization of effects to a novel setting."
+          }
+        ],
+        "correct": [
+          "A"
+        ],
+        "multiple": false,
+        "explanation": "Talking can be directly observed and measured. A precise procedural description is technological, while effects in a new setting demonstrate generality."
+      },
+      {
+        "number": 12,
+        "prompt": "\"Conceptually systematic\" is exemplified when a process is described",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "so that a trained reader could replicate it."
+          },
+          {
+            "letter": "B",
+            "text": "with respect to fundamental behavioral principles."
+          },
+          {
+            "letter": "C",
+            "text": "in terms that are thorough, specific, and detailed."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Conceptually systematic means explaining procedures and behavior change using basic behavioral principles. The other options describe the technological dimension."
+      },
+      {
+        "number": 13,
+        "prompt": "The \"effective\" dimension of applied behavior analysis is exemplified by which statement?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Everyone in the experimental group showed measurable improvement over everyone in the control group."
+          },
+          {
+            "letter": "B",
+            "text": "All in the experimental group acquired a friend with whom they interact daily, compared to only a few people in the control group who made friends."
+          },
+          {
+            "letter": "C",
+            "text": "Most in the experimental group increased from 44 to 47 social initiations/day, compared to the control group that maintained 44 initiations/day."
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "Acquiring a friend and interacting daily represents a practical, socially meaningful change. A result can be measurable or statistically different without being important enough to count as effective."
+      },
+      {
+        "number": 14,
+        "prompt": "The requirement that procedures are described in terms of basic principles refers to which dimension of ABA?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "generality"
+          },
+          {
+            "letter": "B",
+            "text": "conceptually systematic"
+          },
+          {
+            "letter": "C",
+            "text": "behavioral"
+          },
+          {
+            "letter": "D",
+            "text": "technological"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The conceptually systematic dimension connects procedures to basic principles such as reinforcement, extinction, prompting, and stimulus control."
+      },
+      {
+        "number": 15,
+        "prompt": "A technological description of a timeout procedure would include",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "what behavior, objective(s), criterion for meeting the objective."
+          },
+          {
+            "letter": "B",
+            "text": "a specific and detailed description of the experimental design."
+          },
+          {
+            "letter": "C",
+            "text": "what behavior, where, how long, what is said, how, etc."
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "A technological description states exactly when, where, and how the timeout is implemented so another trained person can carry it out consistently."
+      },
+      {
+        "number": 16,
+        "prompt": "Studying what people do refers to which dimension of ABA?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "technological"
+          },
+          {
+            "letter": "B",
+            "text": "behavioral"
+          },
+          {
+            "letter": "C",
+            "text": "applied"
+          },
+          {
+            "letter": "D",
+            "text": "conceptually systematic"
+          }
+        ],
+        "correct": [
+          "B"
+        ],
+        "multiple": false,
+        "explanation": "The behavioral dimension studies what people actually do in observable and measurable terms."
+      },
+      {
+        "number": 17,
+        "prompt": "Which of the following is probably NOT about applied research?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "effects of intermittent punishment on self-injurious behavior"
+          },
+          {
+            "letter": "B",
+            "text": "increasing indices of happiness among individuals with developmental disabilities"
+          },
+          {
+            "letter": "C",
+            "text": "memory processes in delayed spatial discriminations"
+          },
+          {
+            "letter": "D",
+            "text": "noncontingent delivery of reinforcers as a means of increasing productivity"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "Memory processes in delayed spatial discriminations is more consistent with basic research because it examines a theoretical process rather than a socially meaningful behavior problem."
+      },
+      {
+        "number": 18,
+        "prompt": "An interest in behaviors that are important to both the individual and society refers to which dimension of ABA?",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "analytic"
+          },
+          {
+            "letter": "B",
+            "text": "behavioral"
+          },
+          {
+            "letter": "C",
+            "text": "applied"
+          },
+          {
+            "letter": "D",
+            "text": "effective"
+          }
+        ],
+        "correct": [
+          "C"
+        ],
+        "multiple": false,
+        "explanation": "The applied dimension targets behaviors that have social importance for the individual and the larger community."
+      },
+      {
+        "number": 19,
+        "prompt": "Which question reflects the applied dimension of applied behavior analysis? How do you",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "increase the batting average of athletes?"
+          },
+          {
+            "letter": "B",
+            "text": "reduce eating junk food using self-management?"
+          },
+          {
+            "letter": "C",
+            "text": "reduce eating junk food using punishment?"
+          },
+          {
+            "letter": "D",
+            "text": "(all of the above)"
+          }
+        ],
+        "correct": [
+          "D"
+        ],
+        "multiple": false,
+        "explanation": "Each option concerns a socially meaningful behavior or outcome. Improving athletic performance and reducing unhealthy eating both fall within the applied dimension."
+      }
+    ]
+  }
+]
